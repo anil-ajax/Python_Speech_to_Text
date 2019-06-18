@@ -1,7 +1,7 @@
 # Python Speech to Text conversion
 
 * example uses wav file as input and gives text string as output.
-* we can be improved by processing the mic audio instead of wav file
+* we can be improve by directly processing the mic audio instead of wav file
 
 ## Getting Started
 
